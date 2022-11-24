@@ -1,0 +1,6 @@
+#Files to ignore during build
+.gitignore
+.dockerignore
+Dockerfile
+node_modules
+.next
